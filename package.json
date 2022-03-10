@@ -1,0 +1,22 @@
+{
+  "name": "zebibot",
+  "version": "1.0.0",
+  "description": "Bot Discord for MyDigitalSchool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-Cassan/zebiBot.git"
+  },
+  "author": "Lucas Cassan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lucas-Cassan/zebiBot/issues"
+  },
+  "homepage": "https://github.com/Lucas-Cassan/zebiBot#readme",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
