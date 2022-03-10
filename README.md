@@ -2,11 +2,11 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://fr.wikipedia.org/wiki/JavaScript)      [![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)]()
 
-Création d'une bot Discord en **nodejs** et **typescript**
+Création d'une bot Discord en **NodeJS** et **TypeScript**
 
 ## Pour commencer
 
-Entrez ici les instructions pour bien débuter avec votre projet...
+_[EN COURS DE DÉVELOPEMENT]_
 
 ### Pré-requis
 
