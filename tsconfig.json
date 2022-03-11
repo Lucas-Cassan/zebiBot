@@ -1,13 +1,18 @@
 {
     "compilerOptions": {
+        "pretty": true,
         "module": "commonjs",
-        "esModuleInterop": true,
-        "target": "es6",
-        "moduleResolution": "node",
+        "outDir": "build",
+        "newLine": "LF",
+        "target": "ES2019",
         "sourceMap": true,
-        "outDir": "dist"
+        "lib": ["ES2019", "dom"],
+        "skipLibCheck": true,
+        "esModuleInterop": true
     },
-    "include": ["src"],
-    "exclude": ["node_modules"],
-    "lib": ["es2015"]
+    "exclude": [
+        "node_modules",
+        "build",
+        "*.config.ts"
+    ]
 }
