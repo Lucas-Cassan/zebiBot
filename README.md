@@ -1,6 +1,6 @@
 # **zebiBot**
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://fr.wikipedia.org/wiki/JavaScript)      [![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)]()
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://fr.wikipedia.org/wiki/JavaScript)  [![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)]() [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 Création d'une bot Discord en **NodeJS** et **TypeScript**
 
@@ -22,7 +22,12 @@ _[EN COURS DE DÉVELOPEMENT]_
 
 * [TypeScript](https://www.typescriptlang.org) - Language de programmation.
 
-  
+## Langages utilisés
+
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - Structure.
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Style graphique.
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Dynamisation.
+* [PHP](https://www.php.net/) - Back Office.
 
 ## Versions
 
